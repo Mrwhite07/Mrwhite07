@@ -1,0 +1,14 @@
+#include <studio.h>
+#include <string.h>
+int main()
+{
+  char str1[100]="numpy";
+  // char str2[]="np";
+  //res=strcmp(str1,str2);
+  int step=3;
+  for(int 1=0; i<strlen(str1);){
+  printf("%c",str1[i];
+  i=1+step;
+  }
+  return 0;
+}
