@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrwhite07" alt="mrwhite07" /></a> </p>
 
-- 🔭 I’m currently working on **Syed.PVT**
+- 🔭 I’m currently working on **Syed.PVT and stable diffusion text -image generation **
 
 - 🌱 I’m currently learning **Bootstrap,React**
 
