@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Forntend Projects**
 
-- 📫 How to reach me **syedshaalam@gmail.com**
+- 📫 How to reach me **syedshaalam0410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
